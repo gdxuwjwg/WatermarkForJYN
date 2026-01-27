@@ -1,0 +1,10 @@
+{
+    "pack" :{
+        "description": "为防止自制视频被搬运，在actionbar上会显示水印文字",
+        "pack_format": 96,
+        "supported_formats": [48, 81],
+        "min_format": [48, 0],
+        "max_format": [97, 1]
+        //min_format是最小支持版本，max_format是最大支持版本。两者都是数据包版本(可在zh.minecraft.wiki查到)，应随快照版本更新而变化
+    }
+}
