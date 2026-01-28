@@ -1,5 +1,5 @@
 # WatermarkForJYN
-为WzserJYNX准备的java版数据包水印
+为WzserJYNX准备的java版水印数据包
 
 <img width="400" height="71" alt="屏幕截图 2026-01-28 111053" src="https://github.com/user-attachments/assets/733b9a06-6b82-48ab-8124-c78964975ae6" />
 
