@@ -1,9 +1,9 @@
 {
-    "pack" :{
-        "description": "为防止自制视频被搬运，在actionbar上会显示水印文字",
-        "pack_format": 96,
-        "supported_formats": [48, 81],
-        "min_format": [48, 0],
-        "max_format": [97, 1]
-    }
+	"pack" :{
+		"description": "为防止自制视频被搬运，在actionbar上会显示水印文字",
+		"pack_format": 96,
+		"supported_formats": [48, 98],
+		"min_format": [48, 0],
+		"max_format": [98, 0]
+	}
 }
