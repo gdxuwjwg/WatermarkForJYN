@@ -1,1 +1,1 @@
-title @a actionbar {"text":"bilibili@WzserJYNX 严禁转载"}
+title @a actionbar {"text":"bilibili@WzserJYNX 严禁随意转载"}
